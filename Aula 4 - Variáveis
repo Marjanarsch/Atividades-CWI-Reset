@@ -1,0 +1,10 @@
+var nomeCompleto = "Marjana";
+var apelido = "Má";
+var idade = 29;
+var dataNascimento = "26/12/1991";
+var localNascimento = "Ivoti";
+var altura = 168;
+var trabalhando = true
+
+
+apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + apelido + ") e tenho " + idade + " anos. Nasci no dia " + dataNascimento + ", na cidade de " + localNascimento + ". Tenho " + altura + "m de altura e atualmente estou " + (trabalhando ? "empregado" : "desempregado") + "."
